@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#ffffff">
+    <!-- 主码流（大框） -->
+    <rect x="102.4" y="204.8" width="512" height="409.6" rx="20"
+          stroke-width="60"/>
+
+    <!-- 子码流（小框） -->
+    <rect x="409.6" y="409.6" width="512" height="409.6" rx="20"
+          stroke-width="60"/>
+
+    <!-- 切换箭头 -->
+    <path d="M358.4 819.2L256 716.8
+           M256 716.8L358.4 614.4
+           M256 716.8H768"
+          stroke-width="72"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+</svg>
